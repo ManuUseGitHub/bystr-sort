@@ -1,0 +1,862 @@
+{
+  "wordsStats": [
+    {
+      "order": 2,
+      "word": "the",
+      "number": 13,
+      "length": 3
+    },
+    {
+      "order": 6,
+      "word": "js",
+      "number": 9,
+      "length": 2
+    },
+    {
+      "order": 22,
+      "word": "and",
+      "number": 8,
+      "length": 3
+    },
+    {
+      "order": 26,
+      "word": "web",
+      "number": 7,
+      "length": 3
+    },
+    {
+      "order": 5,
+      "word": "node",
+      "number": 7,
+      "length": 4
+    },
+    {
+      "order": 31,
+      "word": "to",
+      "number": 6,
+      "length": 2
+    },
+    {
+      "order": 7,
+      "word": "is",
+      "number": 5,
+      "length": 2
+    },
+    {
+      "order": 114,
+      "word": "foundation",
+      "number": 4,
+      "length": 10
+    },
+    {
+      "order": 38,
+      "word": "side",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 36,
+      "word": "for",
+      "number": 4,
+      "length": 3
+    },
+    {
+      "order": 15,
+      "word": "javascript",
+      "number": 4,
+      "length": 10
+    },
+    {
+      "order": 80,
+      "word": "of",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 37,
+      "word": "server",
+      "number": 3,
+      "length": 6
+    },
+    {
+      "order": 27,
+      "word": "browser",
+      "number": 3,
+      "length": 7
+    },
+    {
+      "order": 113,
+      "word": "by",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 104,
+      "word": "time",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 103,
+      "word": "real",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 101,
+      "word": "as",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 97,
+      "word": "with",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 96,
+      "word": "applications",
+      "number": 2,
+      "length": 12
+    },
+    {
+      "order": 82,
+      "word": "has",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 76,
+      "word": "in",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 69,
+      "word": "name",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 55,
+      "word": "development",
+      "number": 2,
+      "length": 11
+    },
+    {
+      "order": 43,
+      "word": "page",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 40,
+      "word": "scripts",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 24,
+      "word": "code",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 8,
+      "word": "an",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 142,
+      "word": "services",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 141,
+      "word": "amazon",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 140,
+      "word": "yahoo!",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 139,
+      "word": "walmart",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 138,
+      "word": "voxer",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 137,
+      "word": "sap",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 136,
+      "word": "rakuten",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 135,
+      "word": "paypal",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 134,
+      "word": "netflix",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 133,
+      "word": "microsoft",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 132,
+      "word": "linkedin",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 131,
+      "word": "ibm",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 130,
+      "word": "groupon",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 129,
+      "word": "godaddy",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 128,
+      "word": "include",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 127,
+      "word": "software",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 126,
+      "word": "users",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 125,
+      "word": "corporate",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 124,
+      "word": "program",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 123,
+      "word": "projects",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 122,
+      "word": "collaborative",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 121,
+      "word": "linux",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 120,
+      "word": "facilitated",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 119,
+      "word": "which",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 118,
+      "word": "openjs",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 117,
+      "word": "form",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 116,
+      "word": "merged",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 115,
+      "word": "now",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 112,
+      "word": "governed",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 111,
+      "word": "previously",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 110,
+      "word": "was",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 109,
+      "word": "project",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 108,
+      "word": "distributed",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 107,
+      "word": "games",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 106,
+      "word": "programs",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 105,
+      "word": "communication",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 102,
+      "word": "well",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 100,
+      "word": "operations",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 99,
+      "word": "input/output",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 98,
+      "word": "many",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 95,
+      "word": "scalability",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 94,
+      "word": "throughput",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 93,
+      "word": "optimize",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 92,
+      "word": "aim",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 91,
+      "word": "choices",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 90,
+      "word": "design",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 89,
+      "word": "these",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 88,
+      "word": "i/o",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 87,
+      "word": "asynchronous",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 86,
+      "word": "capable",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 85,
+      "word": "architecture",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 84,
+      "word": "driven",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 83,
+      "word": "event",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 81,
+      "word": "product",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 79,
+      "word": "merely",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 78,
+      "word": "context",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 77,
+      "word": "this",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 75,
+      "word": "file",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 74,
+      "word": "particular",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 73,
+      "word": "refer",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 72,
+      "word": "doesn",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 71,
+      "word": "js\"",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 70,
+      "word": "\"node",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 68,
+      "word": "extension",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 67,
+      "word": "filename",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 66,
+      "word": "standard",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 65,
+      "word": "though",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 64,
+      "word": "client",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 63,
+      "word": "languages",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 62,
+      "word": "different",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 61,
+      "word": "than",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 60,
+      "word": "rather",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 59,
+      "word": "language",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 58,
+      "word": "programming",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 57,
+      "word": "single",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 56,
+      "word": "around",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 54,
+      "word": "application",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 53,
+      "word": "unifying",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 52,
+      "word": "paradigm",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 51,
+      "word": "everywhere\"",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 50,
+      "word": "\"javascript",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 49,
+      "word": "represents",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 48,
+      "word": "consequently",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 47,
+      "word": "user",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 46,
+      "word": "sent",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 45,
+      "word": "before",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 44,
+      "word": "content",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 42,
+      "word": "dynamic",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 41,
+      "word": "produce",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 39,
+      "word": "scripting—running",
+      "number": 1,
+      "length": 17
+    },
+    {
+      "order": 35,
+      "word": "tools",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 34,
+      "word": "line",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 33,
+      "word": "command",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 32,
+      "word": "write",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 30,
+      "word": "use",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 29,
+      "word": "developers",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 28,
+      "word": "lets",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 25,
+      "word": "outside",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 23,
+      "word": "executes",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 21,
+      "word": "engine",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 20,
+      "word": "on",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 19,
+      "word": "runs",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 18,
+      "word": "that",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 17,
+      "word": "environment",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 16,
+      "word": "runtime",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 14,
+      "word": "end",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 13,
+      "word": "back",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 12,
+      "word": "platform",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 11,
+      "word": "cross",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 10,
+      "word": "source",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 9,
+      "word": "open",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 4,
+      "word": "encyclopedia",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 3,
+      "word": "free",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 1,
+      "word": "wikipedia",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 0,
+      "word": "from",
+      "number": 1,
+      "length": 4
+    }
+  ]
+}
