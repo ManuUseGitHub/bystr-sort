@@ -1,5 +1,5 @@
 {
-  "name": "sorter",
+  "name": "bystr-sort",
   "version": "1.0.0",
   "description": "helper to sort arrays of defined objects",
   "main": "index.js",
