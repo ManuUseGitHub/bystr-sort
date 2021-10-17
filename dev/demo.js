@@ -1,11 +1,11 @@
 const data = require( "./demo.json" );
-const { sort } = require( "../index" );
+const { sort } = require( "bystr-sort" );
 
 const sortString = `
     by order of a greater than b's
 `;
 
-const someData = data.wordsStats;
-sort( someData , sortString );
+const { wordsStats } = data;
+const sorted = sort( wordsStats , sortString );
 
-console.log( someData );
+console.log( sorted );
