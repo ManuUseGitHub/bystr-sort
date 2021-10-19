@@ -1,6 +1,5 @@
 [![Build Status](https://app.travis-ci.com/ManuUseGitHub/sorter.svg?branch=master)](https://app.travis-ci.com/ManuUseGitHub/sorter) [![npm version](https://badge.fury.io/js/bystr-sort.svg)](https://badge.fury.io/js/bystr-sort)
 # ByStr~Sort
-Does sort your arrays of `T object` following a verbose `sortString` 🙂 .
 
 ----------------------------------------------------------------
 ## Getting started 🚀
