@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
-const { sort , computeSortList } = require( "./bystr-sort/index" );
+const { sort , computeSortList } = require( "./bystr-sort/dist/index.min.js" );
 const data = require( "./demo/demo.json" );
 
 test( "sorts data with no sortstring gives no difference" , () => {
