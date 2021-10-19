@@ -1,0 +1,5 @@
+{
+  "events": {
+    "restart": "tsc ./bystr-sort/dev/index.ts --outDir ./bystr-sort"
+  }
+}
