@@ -1,9 +1,5 @@
-interface IEasySortEntry {
-	by: string;
-	left: any;
-	direction: string;
-	right: any;
-}
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import { IEasySortEntry } from "./interfaces";
 
 /**
  * @param c criteria
@@ -18,13 +14,38 @@ const sBY = ( c: string , a: any , d: string , b: any ): number => {
 	a = a[ c ];
 	b = b[ c ];
 
+	if ( typeof a === "string" || typeof b === "string" ) {
+		a = normalizeWhenDiacritics( a );
+		b = normalizeWhenDiacritics( b );
+	}
+
 	return d === ">" ? ( a < b ? 1 : -1 ) : d === "<" ? ( a > b ? 1 : -1 ) : 1;
 };
 
-const errorOnWrongSortString = (
-	criterias: string[]
-): string => {
-  const criteriaChoises = criterias.sort().join( " or " );
+const normalizeWhenDiacritics = ( str: string ): string => {
+	if ( hasDiacritics( str ) ) {
+		return str.normalize( "NFD" ).replace( /[\u0300-\u036f]/g , "" );
+	}
+	return str;
+};
+
+const hasDiacritics = ( str: string ): boolean => {
+
+	// transform the string into a char arraay;
+	const chars = str.split( "" );
+
+	// record a list of charcodes sorted from the greatest
+	const reversed = chars.map( ( c ) => c.charCodeAt( 0 ) ).sort( ( a , b ) => b - a );
+
+	/**
+	 * if charcode of first is greater than 122 (='z') then
+	 * it has a great chanche to be a diacritics or an accent
+	 */
+	return reversed[ 0 ] > 122;
+};
+
+const errorOnWrongSortString = ( criterias: string[] ): string => {
+	const criteriaChoises = criterias.sort().join( " or " );
 	const format =
 		"by < key > of < a > < greater| lower |< | > > than < b >'s [then]";
 	const critsProposition = `\nIn your case, the "key" string should be eater: \n>${criteriaChoises}<`;
@@ -39,14 +60,14 @@ const computeSortList = (
 ): IEasySortEntry[] => {
 	const sortList: IEasySortEntry[] = [];
 	let cpt = 0;
-  
+
 	const criteriaChoises = criterias.join( "|" );
-  
+
 	const expr = new RegExp(
 		`by (${criteriaChoises}) of (a|b) ([><]|(?:lower|greater)) than (b|a)'s(?: (then))?` ,
 		"gm"
 	);
-	let m : string[] | null;
+	let m: string[] | null;
 
 	let hasThen = false;
 	do {
@@ -76,29 +97,25 @@ const computeSortList = (
 const sort = (
 	objectArray: any[] ,
 	sortString = "" ,
-	crashOnError = false , logfn = console.error
+	crashOnError = false ,
+	logfn = console.error
 ): any[] => {
-  
 	let criterias: string[] = [];
 	if ( objectArray.length ) criterias = Object.keys( objectArray[ 0 ] );
 
-  const sortList = computeSortList( sortString , criterias );
+	const sortList = computeSortList( sortString , criterias );
 
-  if( sortString.length && !sortList.length ){
-    const errorMessage = errorOnWrongSortString( criterias );
-			if ( crashOnError ) {
-				throw errorMessage;
-			} else {
-				logfn( errorMessage );
-			}
-  }
+	if ( sortString.length && !sortList.length ) {
+		const errorMessage = errorOnWrongSortString( criterias );
+		if ( crashOnError ) {
+			throw errorMessage;
+		} else {
+			logfn( errorMessage );
+		}
+	}
 
 	// call the sort core function
-	return sortCore(
-		objectArray ,
-		sortList ,
-		0
-	);
+	return sortCore( objectArray , sortList , 0 );
 };
 
 const sortCore = (

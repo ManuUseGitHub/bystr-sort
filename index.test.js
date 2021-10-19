@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const { sort , computeSortList } = require( "./index" );
 const data = require( "./dev/demo.json" );
 
@@ -43,7 +44,7 @@ describe( "sorting with successful sortString" , () => {
     `;
         const sorted = sort( data.wordsStats , sortString );
         
-        expect( sorted[ 0 ].order ).toBe( 142 );
+        expect( sorted[ 0 ].order ).toBe( 412 );
     } );
 
     
@@ -56,7 +57,17 @@ describe( "sorting with successful sortString" , () => {
     `;
         const sorted = sort( data.wordsStats , sortString );
         
-        expect( sorted[ 0 ].word ).toBe( "yahoo!" );
+        expect( sorted[ 0 ].word ).toBe( "zones" );
+    } );
+
+    it( "sorts data without being disorded by diacritics" , () => {
+
+        const sortString = `
+    by word of a greater than b's
+    `;
+        const sorted = sort( data.wordsStats , sortString );
+        
+        expect( sorted[ 0 ].word[ 0 ].charCodeAt( 0 ) <= 122 ).toBe( true );
     } );
 } );
 describe( "sortstring errors" , () => {

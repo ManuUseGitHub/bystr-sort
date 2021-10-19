@@ -78,5 +78,11 @@ In order to make changes to the core mechanism, you can edit the `typescript` fi
 ```cmd
 $ npm run watchIndex
 ```
+---
+## Release notes
+* ^1.1.0 
+  ascii diacritics fix. Now diacritics from the ascii table will not interfer with the sorting order when you compare strings.
+  
+  ⚠️ : It doesn't include unicode diacritics
 ----------------------------------------------------------------
 [git](https://github.com/ManuUseGitHub/sorter)

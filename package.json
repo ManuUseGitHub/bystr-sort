@@ -3,18 +3,36 @@
   "version": "1.0.0",
   "description": "Does sort your arrays of T object following a verbose sortString 🙂 .",
   "main": "index.js",
-  "keywords":["sort","by string","array","object","verbose","data", "sortstring"],
+  "keywords": [
+    "sort",
+    "by string",
+    "array",
+    "object",
+    "verbose",
+    "data",
+    "sortstring"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  },
   "scripts": {
     "nodemon": "nodemon demo.js --ignore index.js",
     "watchTest": "npm run test -- --watch",
     "watchIndex": "nodemon ./dev/index.ts",
     "test": "jest"
   },
+  "nodemonConfig" : {
+    "events": {
+      "restart": "tsc ./dev/index.ts --outDir ."
+    }
+  },
   "author": "Jean Luc Emmanuel VERHANNEMAN",
   "license": "MIT",
   "dependencies": {
     "nodemon": "^2.0.13",
-    "ts-node": "^10.3.0"
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",

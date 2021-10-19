@@ -1,862 +1,2482 @@
 {
   "wordsStats": [
     {
-      "order": 2,
-      "word": "the",
-      "number": 13,
-      "length": 3
-    },
-    {
-      "order": 6,
-      "word": "js",
-      "number": 9,
-      "length": 2
-    },
-    {
-      "order": 22,
-      "word": "and",
-      "number": 8,
-      "length": 3
-    },
-    {
-      "order": 26,
-      "word": "web",
-      "number": 7,
-      "length": 3
-    },
-    {
-      "order": 5,
-      "word": "node",
-      "number": 7,
+      "order": 14,
+      "word": "être",
+      "number": 2,
       "length": 4
     },
     {
-      "order": 31,
-      "word": "to",
-      "number": 6,
-      "length": 2
-    },
-    {
-      "order": 7,
-      "word": "is",
-      "number": 5,
-      "length": 2
-    },
-    {
-      "order": 114,
-      "word": "foundation",
-      "number": 4,
+      "order": 311,
+      "word": "événements",
+      "number": 1,
       "length": 10
     },
     {
-      "order": 38,
-      "word": "side",
-      "number": 4,
-      "length": 4
-    },
-    {
-      "order": 36,
-      "word": "for",
-      "number": 4,
-      "length": 3
-    },
-    {
-      "order": 15,
-      "word": "javascript",
-      "number": 4,
-      "length": 10
-    },
-    {
-      "order": 80,
-      "word": "of",
-      "number": 3,
-      "length": 2
-    },
-    {
-      "order": 37,
-      "word": "server",
-      "number": 3,
-      "length": 6
-    },
-    {
-      "order": 27,
-      "word": "browser",
-      "number": 3,
-      "length": 7
-    },
-    {
-      "order": 113,
-      "word": "by",
-      "number": 2,
-      "length": 2
-    },
-    {
-      "order": 104,
-      "word": "time",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 103,
-      "word": "real",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 101,
-      "word": "as",
-      "number": 2,
-      "length": 2
-    },
-    {
-      "order": 97,
-      "word": "with",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 96,
-      "word": "applications",
-      "number": 2,
-      "length": 12
-    },
-    {
-      "order": 82,
-      "word": "has",
-      "number": 2,
-      "length": 3
-    },
-    {
-      "order": 76,
-      "word": "in",
-      "number": 2,
-      "length": 2
-    },
-    {
-      "order": 69,
-      "word": "name",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 55,
-      "word": "development",
-      "number": 2,
-      "length": 11
-    },
-    {
-      "order": 43,
-      "word": "page",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 40,
-      "word": "scripts",
-      "number": 2,
-      "length": 7
-    },
-    {
-      "order": 24,
-      "word": "code",
-      "number": 2,
-      "length": 4
-    },
-    {
-      "order": 8,
-      "word": "an",
-      "number": 2,
-      "length": 2
-    },
-    {
-      "order": 142,
-      "word": "services",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 141,
-      "word": "amazon",
+      "order": 348,
+      "word": "évoque",
       "number": 1,
       "length": 6
     },
     {
-      "order": 140,
-      "word": "yahoo!",
+      "order": 164,
+      "word": "évolution",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 386,
+      "word": "étymol",
       "number": 1,
       "length": 6
-    },
-    {
-      "order": 139,
-      "word": "walmart",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 138,
-      "word": "voxer",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 137,
-      "word": "sap",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 136,
-      "word": "rakuten",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 135,
-      "word": "paypal",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 134,
-      "word": "netflix",
-      "number": 1,
-      "length": 7
     },
     {
       "order": 133,
-      "word": "microsoft",
-      "number": 1,
-      "length": 9
-    },
-    {
-      "order": 132,
-      "word": "linkedin",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 131,
-      "word": "ibm",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 130,
-      "word": "groupon",
+      "word": "étendre",
       "number": 1,
       "length": 7
     },
     {
-      "order": 129,
-      "word": "godaddy",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 128,
-      "word": "include",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 127,
-      "word": "software",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 126,
-      "word": "users",
+      "order": 194,
+      "word": "était",
       "number": 1,
       "length": 5
     },
     {
-      "order": 125,
-      "word": "corporate",
-      "number": 1,
-      "length": 9
-    },
-    {
-      "order": 124,
-      "word": "program",
+      "order": 66,
+      "word": "étaient",
       "number": 1,
       "length": 7
     },
     {
-      "order": 123,
-      "word": "projects",
-      "number": 1,
+      "order": 191,
+      "word": "érotisme",
+      "number": 2,
       "length": 8
     },
     {
-      "order": 122,
-      "word": "collaborative",
-      "number": 1,
-      "length": 13
-    },
-    {
-      "order": 121,
-      "word": "linux",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 120,
-      "word": "facilitated",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 119,
-      "word": "which",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 118,
-      "word": "openjs",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 117,
-      "word": "form",
+      "order": 209,
+      "word": "éros",
       "number": 1,
       "length": 4
     },
     {
-      "order": 116,
-      "word": "merged",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 115,
-      "word": "now",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 112,
-      "word": "governed",
+      "order": 301,
+      "word": "érogènes",
       "number": 1,
       "length": 8
     },
     {
-      "order": 111,
-      "word": "previously",
-      "number": 1,
-      "length": 10
-    },
-    {
-      "order": 110,
-      "word": "was",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 109,
-      "word": "project",
+      "order": 344,
+      "word": "érogène",
       "number": 1,
       "length": 7
-    },
-    {
-      "order": 108,
-      "word": "distributed",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 107,
-      "word": "games",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 106,
-      "word": "programs",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 105,
-      "word": "communication",
-      "number": 1,
-      "length": 13
-    },
-    {
-      "order": 102,
-      "word": "well",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 100,
-      "word": "operations",
-      "number": 1,
-      "length": 10
-    },
-    {
-      "order": 99,
-      "word": "input/output",
-      "number": 1,
-      "length": 12
-    },
-    {
-      "order": 98,
-      "word": "many",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 95,
-      "word": "scalability",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 94,
-      "word": "throughput",
-      "number": 1,
-      "length": 10
     },
     {
       "order": 93,
-      "word": "optimize",
+      "word": "équivalent",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 196,
+      "word": "épreuve",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 180,
+      "word": "épanouissement",
+      "number": 1,
+      "length": 14
+    },
+    {
+      "order": 120,
+      "word": "éléments",
       "number": 1,
       "length": 8
     },
     {
-      "order": 92,
-      "word": "aim",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 91,
-      "word": "choices",
+      "order": 373,
+      "word": "élément",
       "number": 1,
       "length": 7
     },
     {
-      "order": 90,
-      "word": "design",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 89,
-      "word": "these",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 88,
-      "word": "i/o",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 87,
-      "word": "asynchronous",
-      "number": 1,
-      "length": 12
-    },
-    {
-      "order": 86,
-      "word": "capable",
+      "order": 146,
+      "word": "échappe",
       "number": 1,
       "length": 7
     },
     {
       "order": 85,
-      "word": "architecture",
-      "number": 1,
-      "length": 12
+      "word": "échange",
+      "number": 2,
+      "length": 7
     },
     {
-      "order": 84,
-      "word": "driven",
+      "order": 300,
+      "word": "zones",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 384,
+      "word": "walter",
       "number": 1,
       "length": 6
     },
     {
-      "order": 83,
-      "word": "event",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 81,
-      "word": "product",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 79,
-      "word": "merely",
+      "order": 361,
+      "word": "wagner",
       "number": 1,
       "length": 6
     },
     {
-      "order": 78,
-      "word": "context",
+      "order": 119,
+      "word": "végétale",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 136,
+      "word": "végétal",
       "number": 1,
       "length": 7
     },
     {
-      "order": 77,
-      "word": "this",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 75,
-      "word": "file",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 74,
-      "word": "particular",
-      "number": 1,
-      "length": 10
-    },
-    {
-      "order": 73,
-      "word": "refer",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 72,
-      "word": "doesn",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 71,
-      "word": "js\"",
+      "order": 105,
+      "word": "vue",
       "number": 1,
       "length": 3
     },
     {
-      "order": 70,
-      "word": "\"node",
+      "order": 357,
+      "word": "vraie",
       "number": 1,
       "length": 5
     },
     {
-      "order": 68,
-      "word": "extension",
-      "number": 1,
-      "length": 9
+      "order": 98,
+      "word": "vol",
+      "number": 2,
+      "length": 3
     },
     {
-      "order": 67,
-      "word": "filename",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 66,
-      "word": "standard",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 65,
-      "word": "though",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 64,
-      "word": "client",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 63,
-      "word": "languages",
-      "number": 1,
-      "length": 9
-    },
-    {
-      "order": 62,
-      "word": "different",
-      "number": 1,
-      "length": 9
-    },
-    {
-      "order": 61,
-      "word": "than",
+      "order": 309,
+      "word": "voie",
       "number": 1,
       "length": 4
     },
     {
-      "order": 60,
-      "word": "rather",
+      "order": 354,
+      "word": "visage",
       "number": 1,
       "length": 6
     },
     {
-      "order": 59,
-      "word": "language",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 58,
-      "word": "programming",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 57,
-      "word": "single",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 56,
-      "word": "around",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 54,
-      "word": "application",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 53,
-      "word": "unifying",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 52,
-      "word": "paradigm",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 51,
-      "word": "everywhere\"",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 50,
-      "word": "\"javascript",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 49,
-      "word": "represents",
-      "number": 1,
-      "length": 10
-    },
-    {
-      "order": 48,
-      "word": "consequently",
-      "number": 1,
-      "length": 12
-    },
-    {
-      "order": 47,
-      "word": "user",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 46,
-      "word": "sent",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 45,
-      "word": "before",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 44,
-      "word": "content",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 42,
-      "word": "dynamic",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 41,
-      "word": "produce",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 39,
-      "word": "scripting—running",
-      "number": 1,
-      "length": 17
-    },
-    {
-      "order": 35,
-      "word": "tools",
+      "order": 389,
+      "word": "virey",
       "number": 1,
       "length": 5
     },
     {
-      "order": 34,
-      "word": "line",
+      "order": 182,
+      "word": "violence",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 189,
+      "word": "vie",
+      "number": 3,
+      "length": 3
+    },
+    {
+      "order": 404,
+      "word": "vice",
       "number": 1,
       "length": 4
     },
     {
-      "order": 33,
-      "word": "command",
+      "order": 20,
+      "word": "vertébré",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 101,
+      "word": "union",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 240,
+      "word": "une/des",
       "number": 1,
       "length": 7
     },
     {
       "order": 32,
-      "word": "write",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 30,
-      "word": "use",
-      "number": 1,
+      "word": "une",
+      "number": 8,
       "length": 3
     },
     {
-      "order": 29,
-      "word": "developers",
-      "number": 1,
-      "length": 10
+      "order": 18,
+      "word": "un",
+      "number": 11,
+      "length": 2
     },
     {
-      "order": 28,
-      "word": "lets",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 25,
-      "word": "outside",
-      "number": 1,
-      "length": 7
-    },
-    {
-      "order": 23,
-      "word": "executes",
-      "number": 1,
-      "length": 8
-    },
-    {
-      "order": 21,
-      "word": "engine",
-      "number": 1,
-      "length": 6
-    },
-    {
-      "order": 20,
-      "word": "on",
+      "order": 409,
+      "word": "té",
       "number": 1,
       "length": 2
     },
     {
-      "order": 19,
-      "word": "runs",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 18,
-      "word": "that",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 17,
-      "word": "environment",
-      "number": 1,
-      "length": 11
-    },
-    {
-      "order": 16,
-      "word": "runtime",
+      "order": 159,
+      "word": "tulipes",
       "number": 1,
       "length": 7
     },
     {
-      "order": 14,
-      "word": "end",
-      "number": 1,
-      "length": 3
-    },
-    {
-      "order": 13,
-      "word": "back",
-      "number": 1,
-      "length": 4
-    },
-    {
-      "order": 12,
-      "word": "platform",
+      "order": 223,
+      "word": "trouvera",
       "number": 1,
       "length": 8
     },
     {
-      "order": 11,
-      "word": "cross",
-      "number": 1,
-      "length": 5
-    },
-    {
-      "order": 10,
-      "word": "source",
+      "order": 303,
+      "word": "trouve",
       "number": 1,
       "length": 6
     },
     {
-      "order": 9,
-      "word": "open",
+      "order": 181,
+      "word": "troubles",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 168,
+      "word": "travers",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 342,
+      "word": "traité",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 314,
+      "word": "trad",
       "number": 1,
       "length": 4
     },
     {
-      "order": 4,
-      "word": "encyclopedia",
+      "order": 299,
+      "word": "toutes",
       "number": 1,
-      "length": 12
+      "length": 6
     },
     {
-      "order": 3,
-      "word": "free",
+      "order": 365,
+      "word": "tout",
       "number": 1,
       "length": 4
     },
     {
-      "order": 1,
-      "word": "wikipedia",
+      "order": 330,
+      "word": "tous",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 34,
+      "word": "totale",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 188,
+      "word": "tient",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 261,
+      "word": "théâtre",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 276,
+      "word": "tension",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 288,
+      "word": "tendent",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 166,
+      "word": "tendances",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 62,
+      "word": "temps",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 83,
+      "word": "temporaire",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 245,
+      "word": "telle",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 148,
+      "word": "tabous",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 382,
+      "word": "sεksɥalite",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 385,
+      "word": "sε",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 61,
+      "word": "symbole",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 324,
+      "word": "sur",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 398,
+      "word": "supérieurs",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 405,
+      "word": "supr",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 56,
+      "word": "suite",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 185,
+      "word": "suffirait",
       "number": 1,
       "length": 9
     },
     {
-      "order": 0,
-      "word": "from",
+      "order": 408,
+      "word": "suff",
       "number": 1,
       "length": 4
+    },
+    {
+      "order": 269,
+      "word": "sublimation",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 353,
+      "word": "subitement",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 378,
+      "word": "style",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 339,
+      "word": "stade",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 244,
+      "word": "spécifique",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 266,
+      "word": "spiritualisée",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 79,
+      "word": "sous",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 262,
+      "word": "son",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 150,
+      "word": "siècles",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 127,
+      "word": "siècle",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 273,
+      "word": "simple",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 16,
+      "word": "si",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 15,
+      "word": "sexué",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 35,
+      "word": "sexuels",
+      "number": 4,
+      "length": 7
+    },
+    {
+      "order": 24,
+      "word": "sexuelles",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 193,
+      "word": "sexuelle",
+      "number": 3,
+      "length": 8
+    },
+    {
+      "order": 183,
+      "word": "sexuel",
+      "number": 3,
+      "length": 6
+    },
+    {
+      "order": 256,
+      "word": "sexualités",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 38,
+      "word": "sexualité",
+      "number": 25,
+      "length": 9
+    },
+    {
+      "order": 8,
+      "word": "sexes",
+      "number": 6,
+      "length": 5
+    },
+    {
+      "order": 29,
+      "word": "sexe",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 198,
+      "word": "ses",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 363,
+      "word": "sent",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 291,
+      "word": "sensuelles",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 349,
+      "word": "sensualité",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 370,
+      "word": "sensible",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 224,
+      "word": "sens",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 77,
+      "word": "se",
+      "number": 5,
+      "length": 2
+    },
+    {
+      "order": 97,
+      "word": "sc",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 407,
+      "word": "sav",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 257,
+      "word": "saupoudrées",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 290,
+      "word": "satisfactions",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 258,
+      "word": "sans",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 226,
+      "word": "saisi",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 317,
+      "word": "saint",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 44,
+      "word": "sa",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 108,
+      "word": "réside",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 145,
+      "word": "récente",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 92,
+      "word": "réalisant",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 135,
+      "word": "règne",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 47,
+      "word": "rostand",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 75,
+      "word": "reproduction",
+      "number": 3,
+      "length": 12
+    },
+    {
+      "order": 369,
+      "word": "rendue",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 26,
+      "word": "remplacer",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 401,
+      "word": "relatifs",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 310,
+      "word": "refoulements",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 128,
+      "word": "recherches",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 174,
+      "word": "recherchent",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 74,
+      "word": "rapprochement",
+      "number": 3,
+      "length": 13
+    },
+    {
+      "order": 248,
+      "word": "rapports",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 320,
+      "word": "raison",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 5,
+      "word": "qui",
+      "number": 7,
+      "length": 3
+    },
+    {
+      "order": 394,
+      "word": "quem",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 149,
+      "word": "que",
+      "number": 7,
+      "length": 3
+    },
+    {
+      "order": 321,
+      "word": "quand",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 241,
+      "word": "qualificatif",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 403,
+      "word": "péladan",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 358,
+      "word": "pureté",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 284,
+      "word": "pulsions",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 278,
+      "word": "psychol",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 172,
+      "word": "psycho",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 281,
+      "word": "psychanal",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 78,
+      "word": "présente",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 325,
+      "word": "présence",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 387,
+      "word": "propres",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 381,
+      "word": "prononc",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 111,
+      "word": "produits",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 106,
+      "word": "procréation",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 268,
+      "word": "processus",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 335,
+      "word": "premières",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 222,
+      "word": "première",
+      "number": 3,
+      "length": 8
+    },
+    {
+      "order": 338,
+      "word": "premier",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 360,
+      "word": "pourtalès",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 25,
+      "word": "pour",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 239,
+      "word": "poss",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 205,
+      "word": "ponty",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 121,
+      "word": "pollen",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 115,
+      "word": "pléiade",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 200,
+      "word": "plus",
+      "number": 4,
+      "length": 4
+    },
+    {
+      "order": 143,
+      "word": "plantes",
+      "number": 3,
+      "length": 7
+    },
+    {
+      "order": 175,
+      "word": "plaisir",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 187,
+      "word": "place",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 277,
+      "word": "piret",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 40,
+      "word": "phénotypique",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 206,
+      "word": "phénoménol",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 4,
+      "word": "physiques",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 71,
+      "word": "physiologiques",
+      "number": 1,
+      "length": 14
+    },
+    {
+      "order": 69,
+      "word": "physiol",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 341,
+      "word": "phases",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 161,
+      "word": "peu",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 328,
+      "word": "petit",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 246,
+      "word": "personne",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 179,
+      "word": "personnalité",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 207,
+      "word": "perception",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 163,
+      "word": "pelt",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 124,
+      "word": "pas",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 313,
+      "word": "partielles",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 116,
+      "word": "partic",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 84,
+      "word": "partenaires",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 280,
+      "word": "paris",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 27,
+      "word": "par",
+      "number": 6,
+      "length": 3
+    },
+    {
+      "order": 64,
+      "word": "où",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 155,
+      "word": "ouvrages",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 112,
+      "word": "ou",
+      "number": 3,
+      "length": 2
+    },
+    {
+      "order": 36,
+      "word": "organisme",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 142,
+      "word": "organes",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 345,
+      "word": "oral",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 30,
+      "word": "opposé",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 122,
+      "word": "oosphères",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 151,
+      "word": "ont",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 21,
+      "word": "on",
+      "number": 5,
+      "length": 2
+    },
+    {
+      "order": 364,
+      "word": "odeur",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 289,
+      "word": "obtenir",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 138,
+      "word": "nécessité",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 57,
+      "word": "nécessaire",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 374,
+      "word": "nudité",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 86,
+      "word": "noyaux",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 322,
+      "word": "nous",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 134,
+      "word": "notion",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 282,
+      "word": "notamment",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 355,
+      "word": "nietzsche",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 351,
+      "word": "nibelungen",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 184,
+      "word": "ne",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 332,
+      "word": "nature",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 346,
+      "word": "méton",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 70,
+      "word": "mécanismes",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 10,
+      "word": "mâles",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 103,
+      "word": "mâle",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 259,
+      "word": "mystère",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 350,
+      "word": "musique",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 236,
+      "word": "mounier",
+      "number": 3,
+      "length": 7
+    },
+    {
+      "order": 199,
+      "word": "moments",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 126,
+      "word": "moins",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 118,
+      "word": "mode",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 204,
+      "word": "merleau",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 383,
+      "word": "martinet",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 107,
+      "word": "mais",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 412,
+      "word": "littér",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 67,
+      "word": "lilar",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 275,
+      "word": "libération",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 302,
+      "word": "libido",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 7,
+      "word": "les",
+      "number": 19,
+      "length": 3
+    },
+    {
+      "order": 362,
+      "word": "lecture",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 230,
+      "word": "leclerc",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 60,
+      "word": "le",
+      "number": 9,
+      "length": 2
+    },
+    {
+      "order": 326,
+      "word": "latente",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 379,
+      "word": "larbaud",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 215,
+      "word": "laquelle",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 208,
+      "word": "langue",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 377,
+      "word": "laissée",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 50,
+      "word": "la",
+      "number": 46,
+      "length": 2
+    },
+    {
+      "order": 380,
+      "word": "journal",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 19,
+      "word": "jeune",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 315,
+      "word": "jankélévitch",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 255,
+      "word": "jamais",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 160,
+      "word": "jacinthes",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 298,
+      "word": "investissant",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 33,
+      "word": "inversion",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 42,
+      "word": "inverse",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 48,
+      "word": "introd",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 367,
+      "word": "intimité",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 254,
+      "word": "intervient",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 331,
+      "word": "instincts",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 402,
+      "word": "instinct",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 156,
+      "word": "initiation",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 265,
+      "word": "inhibée",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 76,
+      "word": "infusoires",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 312,
+      "word": "infantile",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 9,
+      "word": "individus",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 102,
+      "word": "individu",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 390,
+      "word": "in",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 221,
+      "word": "imprégnation",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 376,
+      "word": "impression",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 212,
+      "word": "images",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 123,
+      "word": "il",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 316,
+      "word": "idée",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 396,
+      "word": "ici",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 190,
+      "word": "humaine",
+      "number": 4,
+      "length": 7
+    },
+    {
+      "order": 165,
+      "word": "humain",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 63,
+      "word": "hors",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 231,
+      "word": "hommes",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 267,
+      "word": "homme",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 250,
+      "word": "histoires",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 95,
+      "word": "hist",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 49,
+      "word": "génét",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 201,
+      "word": "généraux",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 170,
+      "word": "généralement",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 45,
+      "word": "génotypique",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 235,
+      "word": "génitalité",
+      "number": 2,
+      "length": 10
+    },
+    {
+      "order": 96,
+      "word": "gén",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 249,
+      "word": "groupe",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 217,
+      "word": "grande",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 140,
+      "word": "graines",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 178,
+      "word": "global",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 23,
+      "word": "glandes",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 113,
+      "word": "gamètes",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 94,
+      "word": "fécondation",
+      "number": 3,
+      "length": 11
+    },
+    {
+      "order": 89,
+      "word": "fusion",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 410,
+      "word": "fréq",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 283,
+      "word": "freud",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 308,
+      "word": "frayer",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 352,
+      "word": "frappait",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 337,
+      "word": "forment",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 80,
+      "word": "forme",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 110,
+      "word": "formation",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 375,
+      "word": "fond",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 141,
+      "word": "fleurs",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 305,
+      "word": "fixations",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 232,
+      "word": "femmes",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 264,
+      "word": "femme",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 12,
+      "word": "femelles",
+      "number": 2,
+      "length": 8
+    },
+    {
+      "order": 104,
+      "word": "femelle",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 125,
+      "word": "fallu",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 13,
+      "word": "fait",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 368,
+      "word": "extraordinairement",
+      "number": 1,
+      "length": 18
+    },
+    {
+      "order": 131,
+      "word": "expériences",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 192,
+      "word": "expérience",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 99,
+      "word": "exprime",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 186,
+      "word": "expliquer",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 234,
+      "word": "ex",
+      "number": 4,
+      "length": 2
+    },
+    {
+      "order": 88,
+      "word": "eux",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 11,
+      "word": "et",
+      "number": 24,
+      "length": 2
+    },
+    {
+      "order": 41,
+      "word": "est",
+      "number": 10,
+      "length": 3
+    },
+    {
+      "order": 53,
+      "word": "espèce",
+      "number": 2,
+      "length": 6
+    },
+    {
+      "order": 359,
+      "word": "esprit",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 87,
+      "word": "entre",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 371,
+      "word": "ensuite",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 1,
+      "word": "ensemble",
+      "number": 7,
+      "length": 8
+    },
+    {
+      "order": 22,
+      "word": "enlève",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 158,
+      "word": "enfants",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 287,
+      "word": "enfance",
+      "number": 2,
+      "length": 7
+    },
+    {
+      "order": 114,
+      "word": "encyclop",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 54,
+      "word": "en",
+      "number": 6,
+      "length": 2
+    },
+    {
+      "order": 304,
+      "word": "elle",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 31,
+      "word": "détermine",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 274,
+      "word": "désir",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 406,
+      "word": "dér",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 203,
+      "word": "dépendance",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 137,
+      "word": "démontrer",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 100,
+      "word": "définit",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 297,
+      "word": "débordant",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 286,
+      "word": "dès",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 28,
+      "word": "du",
+      "number": 6,
+      "length": 2
+    },
+    {
+      "order": 393,
+      "word": "ds",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 263,
+      "word": "double",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 306,
+      "word": "dont",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 270,
+      "word": "donne",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 52,
+      "word": "division",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 229,
+      "word": "divin",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 242,
+      "word": "disposition",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 340,
+      "word": "discerné",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 279,
+      "word": "différentielle",
+      "number": 1,
+      "length": 14
+    },
+    {
+      "order": 6,
+      "word": "différencient",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 391,
+      "word": "dict",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 65,
+      "word": "deux",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 157,
+      "word": "destinés",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 2,
+      "word": "des",
+      "number": 28,
+      "length": 3
+    },
+    {
+      "order": 129,
+      "word": "depuis",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 43,
+      "word": "de",
+      "number": 46,
+      "length": 2
+    },
+    {
+      "order": 395,
+      "word": "ddl",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 139,
+      "word": "dans",
+      "number": 10,
+      "length": 4
+    },
+    {
+      "order": 130,
+      "word": "célèbres",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 46,
+      "word": "cuénot",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 152,
+      "word": "créés",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 225,
+      "word": "cruciale",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 227,
+      "word": "croisement",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 68,
+      "word": "couple",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 169,
+      "word": "corps",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 392,
+      "word": "conversation",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 211,
+      "word": "contes",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 82,
+      "word": "contact",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 296,
+      "word": "conservation",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 81,
+      "word": "conjugaison",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 197,
+      "word": "condition",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 72,
+      "word": "concourent",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 162,
+      "word": "compromettante",
+      "number": 1,
+      "length": 14
+    },
+    {
+      "order": 400,
+      "word": "comportements",
+      "number": 1,
+      "length": 13
+    },
+    {
+      "order": 243,
+      "word": "comportement",
+      "number": 1,
+      "length": 12
+    },
+    {
+      "order": 272,
+      "word": "complexe",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 237,
+      "word": "compl",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 154,
+      "word": "commode",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 195,
+      "word": "comme",
+      "number": 2,
+      "length": 5
+    },
+    {
+      "order": 213,
+      "word": "cinéma",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 334,
+      "word": "cinq",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 91,
+      "word": "ci",
+      "number": 1,
+      "length": 2
+    },
+    {
+      "order": 17,
+      "word": "chez",
+      "number": 6,
+      "length": 4
+    },
+    {
+      "order": 327,
+      "word": "cher",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 176,
+      "word": "charnel",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 388,
+      "word": "chaque",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 214,
+      "word": "chansons",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 233,
+      "word": "chair",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 90,
+      "word": "ceux",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 220,
+      "word": "cette",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 372,
+      "word": "cet",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 333,
+      "word": "ces",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 293,
+      "word": "celles",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 210,
+      "word": "celle",
+      "number": 3,
+      "length": 5
+    },
+    {
+      "order": 366,
+      "word": "cela",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 347,
+      "word": "ce",
+      "number": 2,
+      "length": 2
+    },
+    {
+      "order": 247,
+      "word": "catégorie",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 3,
+      "word": "caractères",
+      "number": 3,
+      "length": 10
+    },
+    {
+      "order": 271,
+      "word": "caractère",
+      "number": 3,
+      "length": 9
+    },
+    {
+      "order": 343,
+      "word": "caract",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 132,
+      "word": "camerarius",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 117,
+      "word": "bot",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 0,
+      "word": "biol",
+      "number": 3,
+      "length": 4
+    },
+    {
+      "order": 294,
+      "word": "besoins",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 307,
+      "word": "besoin",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 399,
+      "word": "besch",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 55,
+      "word": "avec",
+      "number": 2,
+      "length": 4
+    },
+    {
+      "order": 319,
+      "word": "avait",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 147,
+      "word": "aux",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 292,
+      "word": "autres",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 153,
+      "word": "autour",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 202,
+      "word": "autonomie",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 295,
+      "word": "auto",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 109,
+      "word": "aussi",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 318,
+      "word": "augustin",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 73,
+      "word": "au",
+      "number": 4,
+      "length": 2
+    },
+    {
+      "order": 58,
+      "word": "attraction",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 260,
+      "word": "artaud",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 216,
+      "word": "apprend",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 39,
+      "word": "apparente",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 336,
+      "word": "années",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 397,
+      "word": "animaux",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 228,
+      "word": "animal",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 329,
+      "word": "ange",
+      "number": 1,
+      "length": 4
+    },
+    {
+      "order": 59,
+      "word": "androgyne",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 252,
+      "word": "amoureuses",
+      "number": 1,
+      "length": 10
+    },
+    {
+      "order": 219,
+      "word": "amour",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 253,
+      "word": "altruisme",
+      "number": 1,
+      "length": 9
+    },
+    {
+      "order": 323,
+      "word": "alertait",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 356,
+      "word": "affront",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 251,
+      "word": "affres",
+      "number": 1,
+      "length": 6
+    },
+    {
+      "order": 173,
+      "word": "affectif",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 218,
+      "word": "affaire",
+      "number": 1,
+      "length": 7
+    },
+    {
+      "order": 238,
+      "word": "adj",
+      "number": 2,
+      "length": 3
+    },
+    {
+      "order": 167,
+      "word": "activités",
+      "number": 2,
+      "length": 9
+    },
+    {
+      "order": 285,
+      "word": "actes",
+      "number": 1,
+      "length": 5
+    },
+    {
+      "order": 144,
+      "word": "acquisition",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 37,
+      "word": "acquiert",
+      "number": 1,
+      "length": 8
+    },
+    {
+      "order": 177,
+      "word": "accomplissement",
+      "number": 1,
+      "length": 15
+    },
+    {
+      "order": 171,
+      "word": "accompagnés",
+      "number": 1,
+      "length": 11
+    },
+    {
+      "order": 411,
+      "word": "abs",
+      "number": 1,
+      "length": 3
+    },
+    {
+      "order": 51,
+      "word": "abord",
+      "number": 1,
+      "length": 5
     }
   ]
 }

@@ -12,7 +12,28 @@ var sBY = function (c, a, d, b) {
     // a and b are set to the target subject of comparison
     a = a[c];
     b = b[c];
+    if (typeof a === "string" || typeof b === "string") {
+        a = normalizeWhenDiacritics(a);
+        b = normalizeWhenDiacritics(b);
+    }
     return d === ">" ? (a < b ? 1 : -1) : d === "<" ? (a > b ? 1 : -1) : 1;
+};
+var normalizeWhenDiacritics = function (str) {
+    if (hasDiacritics(str)) {
+        return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    }
+    return str;
+};
+var hasDiacritics = function (str) {
+    // transform the string into a char arraay;
+    var chars = str.split("");
+    // record a list of charcodes sorted from the greatest
+    var reversed = chars.map(function (c) { return c.charCodeAt(0); }).sort(function (a, b) { return b - a; });
+    /**
+     * if charcode of first is greater than 122 (='z') then
+     * it has a great chanche to be a diacritics or an accent
+     */
+    return reversed[0] > 122;
 };
 var errorOnWrongSortString = function (criterias) {
     var criteriaChoises = criterias.sort().join(" or ");
