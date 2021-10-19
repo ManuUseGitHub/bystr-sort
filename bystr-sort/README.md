@@ -44,11 +44,6 @@ Does sort your arrays of `T object` following a verbose `sortString` 🙂 .
 
 Note
 - further updates will allow the case insensitiveness of the whole sort sentence ...
-----------------------------------------------------------------
-## Demo
-
-This package is shiped with a demo. You can access it via the dev directory of the package.
-`demo.js` : the executable file;`demo.json`: the data for both tests and demo.
 
 ----------------------------------------------------------------
 ## Bonus 🎈
@@ -72,17 +67,3 @@ const sort = (
 
 - **logfn**
   Use this to check errors within your tests.
----
-## Pushing further
-In order to make changes to the core mechanism, you can edit the `typescript` file within `dev` directory. to auto compile it, run 
-```cmd
-$ npm run watchIndex
-```
----
-## Release notes
-* ^1.1.0 
-  ascii diacritics fix. Now diacritics from the ascii table will not interfer with the sorting order when you compare strings.
-  
-  ⚠️ : It doesn't include unicode diacritics
-----------------------------------------------------------------
-[git](https://github.com/ManuUseGitHub/sorter)

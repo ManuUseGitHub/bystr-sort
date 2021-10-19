@@ -1,19 +1,10 @@
 {
-  "name": "bystr-sort",
-  "version": "1.0.0",
-  "description": "",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/npm/cli.git"
-  },
   "scripts": {
     "nodemon": "nodemon demo.js --ignore index.js",
     "watchTest": "npm run test -- --watch",
     "watchIndex": "nodemon ./bystr-sort/dev/index.ts",
     "test": "jest"
   },
-  "author": "Jean Luc Emmanuel VERHANNEMAN",
-  "license": "MIT",
   "dependencies": {
     "nodemon": "^2.0.13",
     "ts-node": "^10.3.0",
