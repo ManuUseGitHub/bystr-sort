@@ -1,7 +1,7 @@
-[![Build Status](https://app.travis-ci.com/ManuUseGitHub/sorter.svg?branch=master)](https://app.travis-ci.com/ManuUseGitHub/sorter) [![npm version](https://badge.fury.io/js/bystr-sort.svg)](https://badge.fury.io/js/bystr-sort)
 # ByStr~Sort
 
-----------------------------------------------------------------
+[![Build Status](https://app.travis-ci.com/ManuUseGitHub/sorter.svg?branch=master)](https://app.travis-ci.com/ManuUseGitHub/sorter) [![npm version](https://badge.fury.io/js/bystr-sort.svg)](https://badge.fury.io/js/bystr-sort)
+
 ## Getting started 🚀
 Find the whole procedure on [NPM - bystr-sort](https://www.npmjs.com/package/bystr-sort)
 
