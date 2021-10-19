@@ -1,6 +1,6 @@
 {
   "name": "bystr-sort",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Does sort your arrays of T object following a verbose sortString 🙂 .",
   "main": "index.js",
   "keywords": [
@@ -22,7 +22,7 @@
     "watchIndex": "nodemon ./dev/index.ts",
     "test": "jest"
   },
-  "nodemonConfig" : {
+  "nodemonConfig": {
     "events": {
       "restart": "tsc ./dev/index.ts --outDir ."
     }
