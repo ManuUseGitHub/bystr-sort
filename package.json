@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "nodemon": "nodemon demo.js --ignore index.js",
+    "nodemon": "nodemon demo/demo.js --ignore index.js",
     "watchTest": "npm run test -- --watch",
     "watchIndex": "nodemon ./dev/index.ts",
     "dist": "minify bystr-sort/index.js",
