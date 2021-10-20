@@ -1,6 +1,6 @@
 {
   "name": "bystr-sort",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Does sort your arrays of T object following a verbose sortString 🙂 .",
   "main": "index.js",
   "keywords": [
